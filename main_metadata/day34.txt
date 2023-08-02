@@ -1,0 +1,21 @@
+Link: https://lemmy.antemeridiem.xyz/post/159187
+
+Title: Top comment decides next move, legal or not | day 34: the Black King casts a Fireball and the White King sacrifices his queen to awaken the Great Old Ones
+
+Body:
+> Black King (E1) casts Fireball in a straight line up the board, exploding on first contact with an enemy. Destroying all units in a 3x3 square.
+
+> White King sacrifices one of his Queens to the Elder Gods and begins to waken one of the Great Old Ones. All pawns begin to bleed.
+
+Can we get less horrors beyond human comprehension this time?
+The mold is going to die :(
+
+Top comment:
+I dont know where all the blood splatter just came from but its highly susceptible to mold growing over it.
+
+All blood splatter tiles turn into mold tiles.
+
+They still move following Conway’s way of life.
+
+Ps: this is a permanent effect. All future blood splatter will immediately do the same.
+- @webghost0101@lemmy.fmhy.ml

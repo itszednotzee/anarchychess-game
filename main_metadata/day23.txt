@@ -1,0 +1,16 @@
+Link: https://lemmy.antemeridiem.xyz/post/119362
+
+Title: Top comment decides next move, legal or not | day 23: A0 is now a fractal image of the entire board. A copy of the entire board lives in A0
+
+Body:
+###### Recursion
+##### Recursion
+#### Recursion
+### Recursion
+## Recursion
+# Recursion
+^Recursion^
+
+Top comment:
+The blown up white pieces have been rotting. A strange mold starts appearing on the the dead white queen. A moldy tile will spread to one directly adjacent tile every 24hours, unless stopped.
+- @webghost0101@lemmy.fmhy.ml
