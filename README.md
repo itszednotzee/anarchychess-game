@@ -336,6 +336,6 @@ Top comment:
 the factorio dude (or gal) locates a metal deposit in the south of the board and places down a system of miners and conveyor belts to begin x exploiting it. the mining machines start producing pollution, which attracts biters.
 \- @Narrrz@kbin.social
 
-[Top comment decides next move, legal or not | day 49: the factorio dude (or gal) locates a metal deposit in the south of the board and places down a system of miners which attracts biters.](https://lemmy.antemeridiem.xyz/post/209053)
-<img src=main_images/day49.png width=200 />
+[Top comment decides next move, legal or not | day 49: the factorio dude (or gal) locates a metal deposit in the south of the board and places down a system of miners which attracts biters.](https://lemmy.antemeridiem.xyz/post/209053)  
+<img src=main_images/day49.png width=200 />  
 Top comment:
