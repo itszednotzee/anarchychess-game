@@ -47,3 +47,4 @@ Top comment decides next move, legal or not | day 45: The board becomes 3d
 Top comment decides next move, legal or not | day 46: Nothing happens
 Top comment decides next move, legal or not | day 47: The camera pans slightly to the right
 Top comment decides next move, legal or not | day 48: White walkers appear on the top row following the ice as it goes down
+Top comment decides next move, legal or not | day 49: the factorio dude (or gal) locates a metal deposit in the south of the board and places down a system of miners which attracts biters.

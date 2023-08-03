@@ -12,4 +12,5 @@ Now for an announcement:
 I have uploaded every image, extra image, 2D image and metadata from all the days to a github repo [here](https://github.com/itszednotzee/anarchychess-game), I update it every day
 
 Top comment:
-
+the factorio dude (or gal) locates a metal deposit in the south of the board and places down a system of miners and conveyor belts to begin x exploiting it. the mining machines start producing pollution, which attracts biters.
+- @Narrrz@kbin.social
