@@ -339,3 +339,9 @@ the factorio dude (or gal) locates a metal deposit in the south of the board and
 [Top comment decides next move, legal or not | day 49: the factorio dude (or gal) locates a metal deposit in the south of the board and places down a system of miners which attracts biters.](https://lemmy.antemeridiem.xyz/post/209053)  
 <img src=main_images/day49.png width=200 />  
 Top comment:
+zoom in a little towards the board
+\- @zxo@sopuli.xyz
+
+[Top comment decides next move, legal or not | day 50: Camera zooms a little towards the board](https://lemmy.antemeridiem.xyz/post/212728)
+<img src=main_images/day50.png width=200 />
+Top comment:
