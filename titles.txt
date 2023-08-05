@@ -49,3 +49,4 @@ Top comment decides next move, legal or not | day 47: The camera pans slightly t
 Top comment decides next move, legal or not | day 48: White walkers appear on the top row following the ice as it goes down
 Top comment decides next move, legal or not | day 49: the factorio dude (or gal) locates a metal deposit in the south of the board and places down a system of miners which attracts biters.
 Top comment decides next move, legal or not | day 50: Camera zooms a little towards the board
+Top comment decides next move, legal or not | day 51: Black pawns notice the walkers and build fortifications with turrets to the north of the factory

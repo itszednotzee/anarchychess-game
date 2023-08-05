@@ -344,4 +344,10 @@ zoom in a little towards the board
 
 [Top comment decides next move, legal or not | day 50: Camera zooms a little towards the board](https://lemmy.antemeridiem.xyz/post/212728)  
 <img src=main_images/day50.png width=200 />  
-Top comment:
+Top comment:  
+Black pawns notice the walkers and build fortifications with turrets to the north of the factory  
+\- @rockerface@lemm.ee  
+
+[Top comment decides next move, legal or not | day 51: Black pawns notice the walkers and build fortifications with turrets to the north of the factory](https://lemmy.antemeridiem.xyz/post/215974)  
+<img src=main_images/day51.png width=200 />  
+Top comment:  
