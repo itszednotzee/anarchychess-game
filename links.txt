@@ -50,3 +50,4 @@ day48: https://lemmy.antemeridiem.xyz/post/205200
 day49: https://lemmy.antemeridiem.xyz/post/209053
 day50: https://lemmy.antemeridiem.xyz/post/212728
 day51: https://lemmy.antemeridiem.xyz/post/215974
+day52: https://lemmy.antemeridiem.xyz/post/219316

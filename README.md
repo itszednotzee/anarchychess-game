@@ -351,3 +351,9 @@ Black pawns notice the walkers and build fortifications with turrets to the nort
 [Top comment decides next move, legal or not | day 51: Black pawns notice the walkers and build fortifications with turrets to the north of the factory](https://lemmy.antemeridiem.xyz/post/215974)  
 <img src=main_images/day51.png width=200 />  
 Top comment:  
+The black pawns go on strike for higher wages, health insurance, and at least four weeks of vacation a year. Union bosses threaten to release information about King’s browser history.  
+\- @Mechanismatic@lemmy.ml  
+
+[Top comment decides next move, legal or not | day 52: The black pawns go on strike for higher wages, health insurance, and at least four weeks of vacation a year.](https://lemmy.antemeridiem.xyz/post/219316)  
+<img src=main_images/day52.png width=200 />  
+Top comment:  
