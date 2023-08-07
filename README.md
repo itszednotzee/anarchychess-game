@@ -357,3 +357,12 @@ The black pawns go on strike for higher wages, health insurance, and at least fo
 [Top comment decides next move, legal or not | day 52: The black pawns go on strike for higher wages, health insurance, and at least four weeks of vacation a year.](https://lemmy.antemeridiem.xyz/post/219316)  
 <img src=main_images/day52.png width=200 />  
 Top comment:  
+the board begins to experience plate(board?) tectonics, with the main 2/3 of the board subducting slowly under the bottom right third.  
+
+this continues happening in the coming turns.  
+\- @Narrrz@kbin.social 
+
+[Top comment decides next move, legal or not | day 53: the board begins to experience plate(board?) tectonics, with the main 2/3 of the board subducting slowly under the bottom right third.](https://lemmy.antemeridiem.xyz/post/222491)  
+<img src=main_images/day53.png width=200 />  
+Top comment:  
+
