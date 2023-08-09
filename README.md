@@ -365,4 +365,9 @@ this continues happening in the coming turns.
 [Top comment decides next move, legal or not | day 53: the board begins to experience plate(board?) tectonics, with the main 2/3 of the board subducting slowly under the bottom right third.](https://lemmy.antemeridiem.xyz/post/222491)  
 <img src=main_images/day53.png width=200 />  
 Top comment:  
+A mysterious trapdoor opens in the floor next to the table…  
+\- @rarWars@lemmy.blahaj.zone 
 
+[Top comment decides next move, legal or not | day 54: A mysterious trapdoor opens in the floor next to the table…](https://lemmy.antemeridiem.xyz/post/227688)  
+<img src=main_images/day54.png width=200 />  
+Top comment:  
