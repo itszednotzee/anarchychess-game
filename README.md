@@ -371,3 +371,9 @@ A mysterious trapdoor opens in the floor next to the table…
 [Top comment decides next move, legal or not | day 54: A mysterious trapdoor opens in the floor next to the table…](https://lemmy.antemeridiem.xyz/post/227688)  
 <img src=main_images/day54.png width=200 />  
 Top comment:  
+The rainbow unicorn moves to the border of the table and casts a beam into the hole.  
+\- @Speiser0@feddit.de   
+
+[Top comment decides next move, legal or not | day 55: The rainbow unicorn moves to the border of the table and casts a beam into the hole.](https://lemmy.antemeridiem.xyz/post/237958)  
+<img src=main_images/day55.png width=200 />  
+Top comment:  
