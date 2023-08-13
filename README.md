@@ -377,3 +377,9 @@ The rainbow unicorn moves to the border of the table and casts a beam into the h
 [Top comment decides next move, legal or not | day 55: The rainbow unicorn moves to the border of the table and casts a beam into the hole.](https://lemmy.antemeridiem.xyz/post/237958)  
 <img src=main_images/day55.png width=200 />  
 Top comment:  
+The rainbow beam takes more curves and turns into the rainbow road. Mario, Luigi and Bowser drive out of the hole with their carts.  
+\- @Speiser0@feddit.de 
+
+[Top comment decides next move, legal or not | day 56: The rainbow beam takes more curves and turns into the rainbow road. Mario, Luigi and Bowser drive out of the hole with their carts.](https://lemmy.antemeridiem.xyz/post/249530)   
+<img src=main_images/day56.png width=200 />  
+Top comment:  
