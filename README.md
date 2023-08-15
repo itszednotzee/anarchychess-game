@@ -383,3 +383,9 @@ The rainbow beam takes more curves and turns into the rainbow road. Mario, Luigi
 [Top comment decides next move, legal or not | day 56: The rainbow beam takes more curves and turns into the rainbow road. Mario, Luigi and Bowser drive out of the hole with their carts.](https://lemmy.antemeridiem.xyz/post/249530)   
 <img src=main_images/day56.png width=200 />  
 Top comment:  
+As the drivers approach the board, an item box appears on G4  
+\- @nat@lemmy.world  
+
+[Top comment decides next move, legal or not | day 57: As the drivers approach the board, an item box appears on G4](https://lemmy.antemeridiem.xyz/post/257281)   
+<img src=main_images/day57.png width=200 />  
+
