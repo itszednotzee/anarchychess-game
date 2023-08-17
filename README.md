@@ -387,5 +387,12 @@ As the drivers approach the board, an item box appears on G4
 \- @nat@lemmy.world  
 
 [Top comment decides next move, legal or not | day 57: As the drivers approach the board, an item box appears on G4](https://lemmy.antemeridiem.xyz/post/257281)   
-<img src=main_images/day57.png width=200 />  
+<img src=main_images/day57.png width=200 />
+Top comment:  
+Skateboarding Joe Biden to H3  
+\- @Slartibartfast@lemmyunchained.net  
+Nyan cat flies in from left to right and does a loop around the rainbow road, essentially creating a secondary rainbow intertwined but not connecting to the first one.  
+\- @webghost0101@sopuli.xyz   
 
+[Top comment decides next move, legal or not | day 58: Skateboarding Joe Biden to H3 and Nyan cat flies in from left to right and does a loop around the rainbow road](https://lemmy.antemeridiem.xyz/post/268378)   
+<img src=main_images/day58.png width=200 />
