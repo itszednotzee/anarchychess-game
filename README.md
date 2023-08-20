@@ -396,3 +396,10 @@ Nyan cat flies in from left to right and does a loop around the rainbow road, es
 
 [Top comment decides next move, legal or not | day 58: Skateboarding Joe Biden to H3 and Nyan cat flies in from left to right and does a loop around the rainbow road](https://lemmy.antemeridiem.xyz/post/268378)   
 <img src=main_images/day58.png width=200 />
+Top comment:  
+A gigantic Cthulhu emerges from under the board spanning A2 to H6 and threatens to gobble up all the things.  
+\- @Gork@lemm.ee  
+
+[Top comment decides next move, legal or not | day 59: A gigantic Cthulhu emerges from under the board spanning A2 to H6 and threatens to gobble up all the things.](https://lemmy.antemeridiem.xyz/post/281115)   
+<img src=main_images/day59.png width=200 />
+
