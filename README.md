@@ -402,4 +402,9 @@ A gigantic Cthulhu emerges from under the board spanning A2 to H6 and threatens 
 
 [Top comment decides next move, legal or not | day 59: A gigantic Cthulhu emerges from under the board spanning A2 to H6 and threatens to gobble up all the things.](https://lemmy.antemeridiem.xyz/post/281115)   
 <img src=main_images/day59.png width=200 />
+Top comment:  
+Nyan cat kamikaze into cthulu.  
+\- @SkyezOpen@lemmy.world  
 
+[Top comment decides next move, legal or not | day 60: Nyan cat kamikaze into cthulu.](https://lemmy.antemeridiem.xyz/post/293727)  
+<img src=main_images/day60.png width=200 />
