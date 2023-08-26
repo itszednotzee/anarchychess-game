@@ -407,4 +407,11 @@ Nyan cat kamikaze into cthulu.
 \- @SkyezOpen@lemmy.world  
 
 [Top comment decides next move, legal or not | day 60: Nyan cat kamikaze into cthulu.](https://lemmy.antemeridiem.xyz/post/293727)  
-<img src=main_images/day60.png width=200 />
+<img src=main_images/day60.png width=200 />  
+Top comment:  
+All the pieces evacuate the board onto the rainbow road, then start a race.  
+\- @chaogomu@kbin.social  
+
+[Top comment decides next move, legal or not | day 61: All the pieces evacuate the board onto the rainbow road, then start a race.](https://lemmy.antemeridiem.xyz/post/314606)  
+<img src=main_images/day61.png width=200 />  
+

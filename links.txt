@@ -59,3 +59,4 @@ day57: https://lemmy.antemeridiem.xyz/post/257281
 day58: https://lemmy.antemeridiem.xyz/post/268378
 day59: https://lemmy.antemeridiem.xyz/post/281115
 day60: https://lemmy.antemeridiem.xyz/post/293727
+day61: https://lemmy.antemeridiem.xyz/post/314606
