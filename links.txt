@@ -60,3 +60,5 @@ day58: https://lemmy.antemeridiem.xyz/post/268378
 day59: https://lemmy.antemeridiem.xyz/post/281115
 day60: https://lemmy.antemeridiem.xyz/post/293727
 day61: https://lemmy.antemeridiem.xyz/post/314606
+day62: https://sopuli.xyz/post/3916046
+day63: https://lemmy.antemeridiem.xyz/post/593535

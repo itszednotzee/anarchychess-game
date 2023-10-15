@@ -414,4 +414,16 @@ All the pieces evacuate the board onto the rainbow road, then start a race.
 
 [Top comment decides next move, legal or not | day 61: All the pieces evacuate the board onto the rainbow road, then start a race.](https://lemmy.antemeridiem.xyz/post/314606)  
 <img src=main_images/day61.png width=200 />  
+Top comment:  
+The current 3d perspective is replaced with a 2d overview of the track and ongoing race.  
+\- @webghost0101@sopuli.xyz  
+
+[Top comment decides next move, legal or not | day 62: The current 3d perspective is replaced with a 2d overview of the track and ongoing race.](https://sopuli.xyz/post/3916046)  
+<img src=main_images/day62.png width=200 />  
+Top comment:  
+Blue shell zuck  
+\- @Olap@lemmy.world  
+
+[ Top comment decides next move, legal or not | day 63: Zuck is blue shell'd](https://lemmy.antemeridiem.xyz/post/593535)  
+<img src=main_images/day63.png width=200 />  
 
