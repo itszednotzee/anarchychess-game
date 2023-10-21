@@ -429,10 +429,10 @@ Blue shell zuck
 Top comment:  
 The smoke from the explosion clears and we see a crab rave  
 \- Somewhereunknown7351@kbin.social  
-Hope you figure out whatever you’re going through ♥️
+Hope you figure out whatever you’re going through ♥️  
 
-Also to remind yourself how to use git, put the man entry for git in the background.
-\- julianh@lemm.ee
+Also to remind yourself how to use git, put the man entry for git in the background.  
+\- julianh@lemm.ee  
 
 [Top comment decides next move, legal or not | day 64: The smoke from the explosion clears and we see a crab rave and the git man page is now in background](https://lemmy.antemeridiem.xyz/post/629781)  
 <img src=main_images/day64.png width=200 />  
