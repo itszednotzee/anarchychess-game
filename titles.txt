@@ -62,4 +62,4 @@ Top comment decides next move, legal or not | day 60: Nyan cat kamikaze into cth
 Top comment decides next move, legal or not | day 61: All the pieces evacuate the board onto the rainbow road, then start a race.
 Top comment decides next move, legal or not | day 62: The current 3d perspective is replaced with a 2d overview of the track and ongoing race.
 Top comment decides next move, legal or not | day 63: Zuck is blue shell'd
-Top comment decides next move, legal or not | day 64: The smoke from the explosion clears and we see a crab rave
+Top comment decides next move, legal or not | day 64: The smoke from the explosion clears and we see a crab rave and the git man page is now in background
