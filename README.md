@@ -424,6 +424,11 @@ Top comment:
 Blue shell zuck  
 \- @Olap@lemmy.world  
 
-[ Top comment decides next move, legal or not | day 63: Zuck is blue shell'd](https://lemmy.antemeridiem.xyz/post/593535)  
+[Top comment decides next move, legal or not | day 63: Zuck is blue shell'd](https://lemmy.antemeridiem.xyz/post/593535)  
 <img src=main_images/day63.png width=200 />  
+Top comment:  
+The smoke from the explosion clears and we see a crab rave  
+\- Somewhereunknown7351@kbin.social  
 
+[Top comment decides next move, legal or not | day 64: The smoke from the explosion clears and we see a crab rave](https://lemmy.antemeridiem.xyz/post/629781)  
+<img src=main_images/day64.png width=200 />  
