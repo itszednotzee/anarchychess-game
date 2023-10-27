@@ -436,3 +436,9 @@ Also to remind yourself how to use git, put the man entry for git in the backgro
 
 [Top comment decides next move, legal or not | day 64: The smoke from the explosion clears and we see a crab rave and the git man page is now in background](https://lemmy.antemeridiem.xyz/post/629781)  
 <img src=main_images/day64.png width=200 />  
+Top comment:  
+pawn to b2  
+\- toxicbubble420@beehaw.org 
+
+[Top comment decides next move, legal or not | day 65: pawn to b2](https://lemmy.antemeridiem.xyz/post/668356)  
+<img src=main_images/day65.png width=200 />  
