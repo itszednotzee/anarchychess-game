@@ -442,3 +442,9 @@ pawn to b2
 
 [Top comment decides next move, legal or not | day 65: pawn to b2](https://lemmy.antemeridiem.xyz/post/668356)  
 <img src=main_images/day65.png width=200 />  
+Top comment:  
+A family of ducklings crosses the road and brings the race to a temporary halt  
+\- HeyThisIsntTheYMCA@lemmy.world  
+
+[Top comment decides next move, legal or not | day 66: A family of ducklings crosses the road and brings the race to a temporary halt](https://lemmy.antemeridiem.xyz/post/758538)  
+<img src=main_images/day66.png width=200 />  
