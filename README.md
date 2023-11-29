@@ -448,3 +448,12 @@ A family of ducklings crosses the road and brings the race to a temporary halt
 
 [Top comment decides next move, legal or not | day 66: A family of ducklings crosses the road and brings the race to a temporary halt](https://lemmy.antemeridiem.xyz/post/758538)  
 <img src=main_images/day66.png width=200 />  
+Top comment:  
+I have no idea how to play this game but, is this a legal move?  
+
+rm -rf —no-preserve-root /  
+\- hddsx@lemmy.ca  
+
+[Top comment decides next move, legal or not | day 66: A family of ducklings crosses the road and brings the race to a temporary halt](https://lemmy.antemeridiem.xyz/post/758538)  
+<img src=main_images/day67.png width=200 />  
+
