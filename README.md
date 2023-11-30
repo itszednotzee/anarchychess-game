@@ -456,4 +456,9 @@ rm -rf —no-preserve-root /
 
 [Top comment decides next move, legal or not | day 67: The entire game is deleted](https://sopuli.xyz/post/6409781)  
 <img src=main_images/day67.png width=200 />  
-
+Top comment:  
+Reload the last save (day 6)  
+\- Maven@lemmy.world  
+ 
+[Top comment decides next move, legal or not | day 68: The last save is reloaded (day 6)](https://sopuli.xyz/post/6450141)  
+<img src=main_images/day68.png width=200 />  

@@ -6,3 +6,5 @@ Body:
 I hope you had a backup!
 
 Top comment:
+Reload the last save (day 6)
+- Maven@lemmy.world
