@@ -67,3 +67,4 @@ Top comment decides next move, legal or not | day 65: pawn to b2
 Top comment decides next move, legal or not | day 66: A family of ducklings crosses the road and brings the race to a temporary halt
 Top comment decides next move, legal or not | day 67: The entire game is deleted
 Top comment decides next move, legal or not | day 68: The last save is reloaded (day 6)
+Top comment decides next move, legal or not | day 69: Because the save is corrupted, C7 changes to the opposite colour

@@ -67,3 +67,4 @@ day65: https://lemmy.antemeridiem.xyz/post/668356
 day66: https://lemmy.antemeridiem.xyz/post/758538
 day67: https://sopuli.xyz/post/6409781
 day68: https://sopuli.xyz/post/6450141
+day69: https://sopuli.xyz/post/6490532

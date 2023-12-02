@@ -462,3 +462,9 @@ Reload the last save (day 6)
  
 [Top comment decides next move, legal or not | day 68: The last save is reloaded (day 6)](https://sopuli.xyz/post/6450141)  
 <img src=main_images/day68.png width=200 />  
+Top comment:  
+Because of the corrupted save, one random tile changes its colour to the opposite. If it happened to have a piece on it, it changes colour as well  
+\- @rockerface@lemm.ee  
+
+[Top comment decides next move, legal or not | day 69: Because the save is corrupted, C7 changes to the opposite colour](https://sopuli.xyz/post/6490532)  
+<img src=main_images/day69.png width=200 />  
