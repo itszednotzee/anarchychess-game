@@ -6,3 +6,5 @@ Body:
 nice
 
 Top comment:
+Pawn C7, now a white pawn, advances to Blacks back row. It tries to turn into a Queen, but due to corruption of it’s metadata from the previous move, turns into a MissingNo.
+- @Perfide@reddthat.com
