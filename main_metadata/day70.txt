@@ -5,3 +5,5 @@ Title: Top comment decides next move, legal or not | day 70: C7 tries to promote
 Body:
 
 Top comment:
+A drag queen replaces the white queen.
+- @alquicksilver@lemmy.world

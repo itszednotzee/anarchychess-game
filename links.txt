@@ -69,3 +69,4 @@ day67: https://sopuli.xyz/post/6409781
 day68: https://sopuli.xyz/post/6450141
 day69: https://sopuli.xyz/post/6490532
 day70: https://sopuli.xyz/post/6557966
+day71: https://sopuli.xyz/post/6931335

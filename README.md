@@ -468,9 +468,15 @@ Because of the corrupted save, one random tile changes its colour to the opposit
 
 [Top comment decides next move, legal or not | day 69: Because the save is corrupted, C7 changes to the opposite colour](https://sopuli.xyz/post/6490532)  
 <img src=main_images/day69.png width=200 />  
-Top comment:  
-Pawn C7, now a white pawn, advances to Blacks back row. It tries to turn into a Queen, but due to corruption of it’s metadata from the previous move, turns into a MissingNo.  
-\- @Perfide@reddthat.com  
+top comment:  
+pawn c7, now a white pawn, advances to blacks back row. it tries to turn into a queen, but due to corruption of it’s metadata from the previous move, turns into a missingno.  
+\- @perfide@reddthat.com  
 
-[Top comment decides next move, legal or not | day 70: C7 tries to promote to queen but turns into a MissingNo due to save corruption](https://sopuli.xyz/post/6557966)  
+[top comment decides next move, legal or not | day 70: c7 tries to promote to queen but turns into a missingno due to save corruption](https://sopuli.xyz/post/6557966)  
 <img src=main_images/day70.png width=200 />  
+Top comment:  
+A drag queen replaces the white queen.  
+- @alquicksilver@lemmy.world  
+
+[Top comment decides next move, legal or not | day 71: A drag queen replace the white queen](https://sopuli.xyz/post/6931335)  
+<img src=main_images/day71.png width=200 />  

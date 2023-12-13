@@ -69,3 +69,4 @@ Top comment decides next move, legal or not | day 67: The entire game is deleted
 Top comment decides next move, legal or not | day 68: The last save is reloaded (day 6)
 Top comment decides next move, legal or not | day 69: Because the save is corrupted, C7 changes to the opposite colour
 Top comment decides next move, legal or not | day 70: C7 tries to promote to queen but turns into a MissingNo due to save corruption
+Top comment decides next move, legal or not | day 71: A drag queen replace the white queen
